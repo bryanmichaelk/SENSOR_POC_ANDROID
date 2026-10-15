@@ -1,0 +1,11 @@
+<resources>
+    <color name="ink">#17201C</color>
+    <color name="surface">#F7F7F2</color>
+    <color name="surface_variant">#E9EDE5</color>
+    <color name="line">#C5CBC3</color>
+    <color name="forest">#215F4B</color>
+    <color name="forest_dark">#174837</color>
+    <color name="warning">#8A5311</color>
+    <color name="danger">#A7372B</color>
+    <color name="muted">#52605A</color>
+</resources>
